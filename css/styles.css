@@ -11304,7 +11304,7 @@ header.masthead {
   position: relative;
   background-color: #343a40;
   background: url("../assets/img/bg-masthead.jpg") no-repeat center center;
-  background-size: cover;
+  background-size: contain;
   padding-top: 8rem;
   padding-bottom: 8rem;
 }
